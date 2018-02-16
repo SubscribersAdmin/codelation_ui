@@ -18,7 +18,7 @@ Gem::Specification.new do |s|
   s.add_dependency "jquery-rails"
   s.add_dependency "awesome_print"
   s.add_dependency "sass-rails", "~> 5.0"
-  s.add_dependency "autoprefixer-rails", "~> 6.7"
+  s.add_dependency "autoprefixer-rails", ">= 6.7"
   s.add_dependency "turbolinks", "~> 2.5"
   s.add_dependency "uglifier", ">= 2.7"
   s.add_dependency "mini_magick", ">= 4.5"
